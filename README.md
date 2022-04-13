@@ -4,8 +4,6 @@
 
 ### Este projeto é um clone da interface do spotify com algumas das principais funções como reproduzir músicas, pause, volume, etc...
 
-</br>
-
 ### Desenvolvi este projeto para práticar React com NextJS e Typescript, também optei por utilizar tailwind CSS pois garente uma estilização mais rápida.
 
 ---
