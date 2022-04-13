@@ -1,0 +1,28 @@
+{
+  "name": "Spotify clone app",
+  "short_name": "Spotify",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "description": "Clone da interface do Spotify utlizando Typescript, nextJS e Tailwind CSS!",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
